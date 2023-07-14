@@ -1,0 +1,12 @@
+{
+    "name": "mourad_br/design-pattern",
+    "authors": [
+        {
+            "name": "Moe-bar",
+            "email": "mouradbarkouch@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.5.8"
+    }
+}
